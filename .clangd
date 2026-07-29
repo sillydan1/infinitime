@@ -1,0 +1,5 @@
+CompileFlags:
+  BuiltinHeaders: QueryDriver
+  Add: [
+    -Wno-unknown-warning-option,
+  ]
